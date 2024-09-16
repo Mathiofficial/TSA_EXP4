@@ -69,7 +69,11 @@ plt.show()
 ```
 ### OUTPUT:
 #### SIMULATED ARMA(1,1) PROCESS:
+
 Partial Autocorrelation
+
+
+
 ![image](https://github.com/user-attachments/assets/e2ad1d66-cc78-4f73-aaaf-dcc79fed3cba)
 
 
