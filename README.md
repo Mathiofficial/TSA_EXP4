@@ -73,17 +73,27 @@ Partial Autocorrelation
 ![image](https://github.com/user-attachments/assets/e2ad1d66-cc78-4f73-aaaf-dcc79fed3cba)
 
 
+
 Autocorrelation
+
+
 ![image](https://github.com/user-attachments/assets/eba3765e-fd2f-45e4-aace-591365f98864)
+
+
 
 
 ##### SIMULATED ARMA(2,2) PROCESS:
 
 Partial Autocorrelation
+
+
 ![image](https://github.com/user-attachments/assets/dcd1d2ea-16f6-403a-8b0e-55b16a7d6fae)
 
 
+
 Autocorrelation
+
+
 ![image](https://github.com/user-attachments/assets/3f0a1dd5-dac7-44e7-b4f1-02149d56b8ff)
 
 
